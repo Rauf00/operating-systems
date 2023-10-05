@@ -1,0 +1,9 @@
+[submodule "s-talk"]
+	path = s-talk
+	url = https://github.com/Rauf00/s-talk.git
+[submodule "unix-ls"]
+	path = unix-ls
+	url = https://github.com/Rauf00/unix-ls
+[submodule "memory-allocator"]
+	path = memory-allocator
+	url = https://github.com/Rauf00/memory-allocator
